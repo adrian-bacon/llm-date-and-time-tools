@@ -37,7 +37,7 @@ To install this toolset, simply add it to your Open WebUI tools list:
 --------------------
 
 * In Open WebUI, in the prompt field, you can now select the tool and ask the LLM for the current date and time.
-* This enables doing accurate date calculates in the LLM, for example: "What will be the date in 2 weeks?"
+* This enables doing accurate date calculations in the LLM, for example: "What will be the date in 2 weeks?"
 
 **License**
 ----------
