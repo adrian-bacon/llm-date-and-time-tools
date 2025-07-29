@@ -42,4 +42,4 @@ To install this toolset, simply add it to your Open WebUI tools list:
 **License**
 ----------
 
-This library is released under the MIT License. See `LICENSE.md` for details.
+This library is released under the MIT License. See `LICENSE` for details.
